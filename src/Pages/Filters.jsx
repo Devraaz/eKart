@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../Sections/Navbar";
 import Footer from "../Sections/Footer";
-import ProductList from "../Sections/ProductList";
 import { Helmet } from "react-helmet";
 
 import { useEffect, useState } from "react";
