@@ -225,7 +225,7 @@ const Navbar = () => {
           ))}
         </div>
 
-        <div className="hover: absolute bottom-2 text-center text-slate-600">
+        <div className="hover: absolute bottom-5 text-center text-slate-600">
           <Link to="/">Terms & Condition</Link>&nbsp;|&nbsp;
           <Link to="/">Privacy Policy</Link>
         </div>
