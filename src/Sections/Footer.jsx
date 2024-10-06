@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   const f_nana = [
     { id: 1, src: "/About", text: "Who we are" },
-    { id: 3, src: "/", text: "Terms & Condition" },
+    { id: 3, src: "/Terms", text: "Terms & Condition" },
     { id: 4, src: "/", text: "Privacy Policy" },
     { id: 5, src: "/AdminLogin", text: "Admin Login" },
     { id: 6, src: "/", text: "Payments & Coupon" },

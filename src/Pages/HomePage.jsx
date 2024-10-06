@@ -121,7 +121,7 @@ const HomePage = () => {
         </h1>
         <div className="mx-auto mt-16 flex w-[90%] flex-col md:flex-row md:justify-center">
           <Link
-            to={`/filter?search=Formals`}
+            to={`/filter?search=Formal`}
             className="mx-auto mb-4 flex w-64 cursor-pointer flex-col gap-5 rounded-md border bg-white p-2 text-center"
           >
             <p className="text-xl font-semibold">Formals</p>
@@ -132,7 +132,7 @@ const HomePage = () => {
             />
           </Link>
           <Link
-            to={`/filter?search=t-shirts`}
+            to={`/filter?search=t-shirt`}
             className="mx-auto mb-4 flex w-64 cursor-pointer flex-col gap-5 rounded-md border bg-white p-2 text-center"
           >
             <p className="text-xl font-semibold">T-Shirts </p>
